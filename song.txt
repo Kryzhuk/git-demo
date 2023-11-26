@@ -1,4 +1,8 @@
 New song
 is singing
 third line
-new lines of song
+forth line
+line five 
+line six
+line seven
+line eight.
